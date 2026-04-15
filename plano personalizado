@@ -1,0 +1,107 @@
+🧩 VISÃO DO DIA A DIA
+
+Como é o trabalho de uma Desenvolvedora Full Stack:
+
+Desenvolver interfaces (frontend) para usuários interagirem com o sistema
+Criar APIs e lógica de negócio (backend)
+Integrar banco de dados com a aplicação
+Corrigir bugs e melhorar funcionalidades existentes
+Trabalhar na criação e evolução de produtos digitais
+🧠 MAPA DE SKILLS
+CORE SKILLS (essenciais):
+Lógica de programação
+JavaScript (base do ecossistema web)
+Desenvolvimento web (frontend + backend)
+NICE-TO-HAVE (complementares):
+Noções de UX/UI
+Integração com APIs de IA
+FERRAMENTAS E TECNOLOGIAS:
+HTML, CSS, JavaScript
+Node.js + Express
+Git e GitHub
+📅 ROADMAP DE 90 DIAS
+
+ADAPTADO PARA: 5 horas/semana
+
+MÊS 1 - FUNDAMENTOS
+
+SEMANA 1-2:
+
+Aprender lógica de programação (variáveis, if, loops)
+Introdução ao JavaScript
+
+SEMANA 3-4:
+
+HTML + CSS básico
+Criar sua primeira página web simples
+MÊS 2 - PRÁTICA
+
+SEMANA 5-6:
+
+JavaScript no navegador (eventos, DOM)
+Criar um pequeno sistema interativo
+
+SEMANA 7-8:
+
+Introdução ao Node.js
+Criar sua primeira API (como a que você já começou 👀)
+MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+
+SEMANA 9-10:
+
+Integrar frontend + backend
+Criar um projeto completo
+
+SEMANA 11-12:
+
+Subir projeto no GitHub
+Preparar README + portfólio
+🚀 PROJETO DE PORTFÓLIO
+PROJETO: Gestor Financeiro Inteligente com IA
+
+💡 (perfeito pra você aproveitar sua experiência em financeiro)
+
+O QUE FAZER:
+
+Criar um sistema web onde o usuário pode:
+
+Cadastrar receitas e despesas
+Ver saldo mensal
+Receber sugestões com IA (ex: “você está gastando muito com X”)
+ENTREGÁVEIS:
+Frontend funcional (interface)
+API backend com CRUD
+Integração com IA (ex: API do ChatGPT ou similar)
+CRITÉRIOS DE ACEITAÇÃO:
+Usuário consegue cadastrar e visualizar dados
+Sistema calcula saldo corretamente
+IA retorna sugestões simples baseadas nos dados
+DICA:
+
+Comece simples! Primeiro CRUD → depois IA. Não tente fazer tudo de uma vez.
+
+💬 ROTEIRO DE ENTREVISTAS
+PERGUNTA 1: Fale sobre você
+
+COMO RESPONDER:
+“Estou em transição de carreira da área financeira para tecnologia. Tenho focado em desenvolvimento full stack, criando projetos práticos como um sistema financeiro com IA.”
+
+PERGUNTA 2: O que você sabe sobre JavaScript?
+
+COMO RESPONDER:
+“Uso JavaScript tanto no frontend quanto no backend com Node.js. Já trabalhei com manipulação de DOM e criação de APIs.”
+
+PERGUNTA 3: Você já fez algum projeto?
+
+COMO RESPONDER:
+“Sim, desenvolvi um sistema de gestão financeira com CRUD completo e integração com IA para sugestões de gastos.”
+
+PERGUNTA 4: Como você resolve problemas?
+
+COMO RESPONDER:
+“Eu quebro o problema em partes menores, pesquiso soluções e testo até encontrar a melhor abordagem.”
+
+PERGUNTA 5: Por que mudar de carreira?
+
+COMO RESPONDER:
+“Sempre tive interesse em tecnologia e criação de produtos. Agora estou direcionando minha carreira para isso, aproveitando minha base analítica do financeiro.”
